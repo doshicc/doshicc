@@ -1,5 +1,12 @@
 <h1 align="center">👋 Привет, я Даша!</h1>
-<h3 align="center">программист из города Краснодар</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7F50&center=true&vCenter=true&width=435&lines=Python+Backend+Developer;Люблю+решать+сложные+задачи;Технологический+энтузиаст" alt="Typing SVG" />
+</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 <p align="center">
   <b>Я увлекаюсь </b> написанием телеграмм ботов и изучением искусственного интеллекта.
   <br/>
