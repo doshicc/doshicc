@@ -33,5 +33,3 @@
 ![Раналда](https://media1.tenor.com/m/dY_Gt19n88sAAAAd/ronaldo.gif)
 
 **Я люблю раналда**
-
-![Программист](https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif)
