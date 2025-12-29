@@ -29,7 +29,3 @@
 - [Бот-расписание](https://github.com/doshicc/sirius_bot)
 - [Бот гололосовой/текстовой помощник](https://github.com/doshicc/ya_gpt)
 
-### 🎶 Немного о моих увлечениях
-![Раналда](https://media1.tenor.com/m/dY_Gt19n88sAAAAd/ronaldo.gif)
-
-**Я люблю раналда**
